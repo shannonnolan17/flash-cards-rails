@@ -18,8 +18,4 @@ class SessionsController < ApplicationController
     session[:id] = nil
   end
 
-  private
-
-
-
 end
